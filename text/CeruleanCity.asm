@@ -122,7 +122,7 @@ _CeruleanCitySuperNerd1_AfterTreeDelete::
 	line "with sunglasses"
 	cont "flew in like a"
 	cont "whirlwind!"
-	para "Then his snorlax"
+	para "Then his Snorlax"
 	line "straight up just"
 	cont "uprooted the tree"
 	cont "that was in front"

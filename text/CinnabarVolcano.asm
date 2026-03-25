@@ -452,7 +452,7 @@ _VolcanoBlaineMessageGymDone::
 	cont "two trainers who"
 	cont "trounced me at"
 	cont "the GYM recently!"
-	para "Keep at it, boy!"
+	para "Keep at it, girl!"
 	para "Hah! Until next"
 	line "time!"
 	done

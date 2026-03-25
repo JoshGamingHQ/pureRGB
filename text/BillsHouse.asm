@@ -33,13 +33,13 @@ _BillsHouseBillNoYouGottaHelpText::
 	cont "in deep trouble!"
 
 	para "What do you say,"
-	line "chief? Please?"
+	line "miss? Please?"
 	cont "OK? All right!"
 	prompt
 
 _BillsHouseBillThankYouText::
 	text "BILL: Yeehah!"
-	line "Thanks, bud! I"
+	line "Thanks, miss! I"
 	cont "owe you one!"
 
 	para "So, did you come"
@@ -62,7 +62,7 @@ _SSTicketReceivedText::
 
 _SSTicketNoRoomText::
 	text "You've got too"
-	line "much stuff, bud!"
+	line "much stuff, hun."
 	done
 
 _BillsHouseBillWhyDontYouGoInsteadOfMeText::
@@ -81,14 +81,14 @@ _BillsHouseBillWhyDontYouGoInsteadOfMeText::
 	done
 
 _BillsHouseBillCheckOutMyRarePokemonText::
-	text "BILL: Look, bud,"
+	text "BILL: Look, hun,"
 	line "just check out"
 	cont "some of my rare"
 	cont "#MON on my <PC>!"
 	done
 
 _BillsHouseGardenInfo::
-	text "BILL: Hey bud!"
+	text "BILL: Hey!"
 	para "Just finished my"
 	line "new beach garden!"
 	para "Why don't you"

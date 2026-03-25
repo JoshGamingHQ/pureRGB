@@ -77,8 +77,8 @@ _CeladonMartCallMomGreatText::
 	line "are!"
 	para "You always were"
 	line "determined."
-	para "My son is doing"
-	line "well on his big"
+	para "My girl is doing"
+	line "well on her big"
 	cont "#MON journey."
 	para "Stay safe and"
 	line "have fun!"
@@ -92,10 +92,10 @@ _CeladonMartCallMomBoredText::
 	para "I heard they have"
 	line "some sort of GAME"
 	cont "CORNER there."
-	para "I know you love"
-	line "games!"
 	para "You'd probably"
-	line "have fun there."
+	line "have some fun..."
+	para "Maybe. Gambling"
+	line "has its perks."
 	prompt
 
 _CeladonMartCallMomGoodIdeaText::
@@ -114,7 +114,7 @@ _CeladonMartCallMomGoodIdeaText::
 
 _CeladonMartCallMomGamblingText::
 	text "What??"
-	para "My son, gambling?"
+	para "My daughter, gambling?"
 	para "Bad idea!"
 	para "Guess you'll have"
 	line "to go somewhere"
@@ -209,7 +209,7 @@ _CeladonMartCallMomLasagnaText::
 	para "I'll put in extra"
 	line "cheese, just how"
 	cont "you like it!"
-	para "A growing boy"
+	para "A growing girl"
 	line "has to eat well!"
 	para "A hearty meal"
 	line "will be waiting"
@@ -222,8 +222,8 @@ _CeladonMartCallMomGoodbyeText::
 	prompt
 	
 _CeladonMartCallMomGoodbyeSweetSon::
-	text "Oh, my son is so"
-	line "sweet. Bye bye!"
+	text "Oh, my daughter is"
+	line "so sweet. Bye bye!"
 	prompt
 
 _CeladonMartCallMomGoodbyeComplete::
