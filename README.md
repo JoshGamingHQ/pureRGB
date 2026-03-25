@@ -1,5 +1,12 @@
 # Pokémon PureRGB (PureRed, PureGreen, PureBlue)
 
+A simple fork of the Pokémon PureRGB ROM hack that changes Red into Green/Blue(JPN), the female alternative found in the Pokémon Adventures/Special Manga!
+
+Spritework was done by MollyChan. Sprites were taken from the Spriter's Resource. You can find the sprite sheet [here](https://www.spriters-resource.com/custom_edited/pokemongeneration1customs/asset/237010/).
+
+This is still a work-in-progress. Not every sprite pertaining to Red has been changed. One that comes to mind is the original back sprite. Stay on the updated sprites if you do not want to see his blocky backside. Text has for the most part been tweaked to make sense with you being a girl. I think every instance of being referred to as a boy (bud, son, etc.) is now replaced, but I could have missed some. I did a very barebones recursive search to find instances.
+
+## Original README
 ![covers](/box_art/PureRGB_Covers.png?raw=true)
 
 A purist's enhancement of Pokémon Red, Green, and Blue based on the pokered disassembly.
